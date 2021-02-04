@@ -22,7 +22,7 @@
  + [드림코딩](https://academy.dream-coding.com/) 
 
 ### `Deploy`
-    <https://daeseonglee.github.io/Youtube_Clone/>
+   [](https://daeseonglee.github.io/Youtube_Clone/)
 
 
 
