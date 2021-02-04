@@ -14,11 +14,11 @@ const HeaderSearch = ({ onSearch }) => {
     return (
         <header className={styles.header}>
             <div className={styles.logo}>
-                <img src="/images/logo.png" alt="logo" className={styles.logoImg} />
+                <i className={`fab fa-youtube ${styles.logoImg}`}></i>
                 <span className={styles.logoTitle}>Youtube</span>
             </div>
             <input ref={inputRef} type="search" className={styles.input} onKeyPress={handleKeyPress} />
-            <button className={styles.button}><img src="/images/search.png" alt="searchImage" className={styles.searchImg} onClick={handleClick} /></button>
+            <button className={styles.button}><i className={`fas fa-search ${styles.searchImg}`} onClick={handleClick}></i></button>
         </header>
     );
 };

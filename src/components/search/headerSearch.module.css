@@ -1,36 +1,38 @@
 .header {
     display: flex;
-    justify-content: space-between;
+    align-items: center;
     height: 4rem;
     padding: 0.8em 1em;
-    background: black;
+    background: rgb(22, 15, 20);
     color: white
 }
 .logo {
     display: flex;
     align-items: center;
-    margin-right: 5%;
-    flex-basis: 10%;
+    margin: 1%;
 }
 .logoImg,
 .logoTitle {
-    width: 50%;
-    font-size: 0.5em;
+    font-size: 1em;
+}
+
+.logoImg {
+    color: rgb(168, 37, 37);     
 }
 
 .input {
-    flex-basis: 80%;
+    flex-basis: 100%;
     font-size: 1.2rem;
     outline: 0;
 }
 
 .button {
-    outline: 0;
-    background: darkgrey;
+    outline: none;
+    background: beige;
+    height: 80%;
 }
 
 .searchImg {
-    height: 100%; 
-    padding: 0.5em 0.2em;
+    /* width:100%; */
 }
 
