@@ -3,7 +3,7 @@
 
 ### `Contents`
 
-    [1. motivation] (#motivation)
+    [1. motivation] <#motivation>
     [2. implemented] (#implemented)
     [3. Reference] (#Reference)
     [4. Deploy] (#Deploy)
@@ -13,7 +13,11 @@
  실질적인 프로젝트를 통해서 React개념을 명확히 하고자 개발하게 되었음
 
 ### `implemented`
-
+Feature | Screen
+------------ | -------------
+메인화면 | 
+검색화면 | Content in the second column
+디테일화면 | Content in the second column
 
 ### `Reference`
 
@@ -22,7 +26,7 @@
  + [드림코딩](https://academy.dream-coding.com/) 
 
 ### `Deploy`
-   [](https://daeseonglee.github.io/Youtube_Clone/)
+   유튜브클론 : <https://daeseonglee.github.io/Youtube_Clone/>
 
 
 
