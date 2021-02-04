@@ -3,10 +3,10 @@
 
 ### `Contents`
 
-    [1. motivation] <#motivation>
-    [2. implemented] (#implemented)
-    [3. Reference] (#Reference)
-    [4. Deploy] (#Deploy)
+    [motivation](#motivation)
+    [implemented](#implemented)
+    [Reference](#Reference)
+    [Deploy](#Deploy)
 
 ### `motivation`
 
