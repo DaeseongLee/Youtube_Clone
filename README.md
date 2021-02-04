@@ -15,9 +15,9 @@
 ### `implemented`
 Feature | Screen
 ------------ | -------------
-메인화면 | <img width="200" height="200" src="https://user-images.githubusercontent.com/47413926/106908991-2b307d80-6743-11eb-80e5-6698d4c952ae.png">
-검색화면 | <img width="200" height="200" src="https://user-images.githubusercontent.com/47413926/106909040-371c3f80-6743-11eb-9df9-02063710f946.png">
-디테일화면 | <img width="200" height="200" src="https://user-images.githubusercontent.com/47413926/106909078-43a09800-6743-11eb-9369-016a4b0c1df8.png">
+메인화면 | <img width="600" height="200" src="https://user-images.githubusercontent.com/47413926/106908991-2b307d80-6743-11eb-80e5-6698d4c952ae.png">
+검색화면 | <img width="600" height="200" src="https://user-images.githubusercontent.com/47413926/106909040-371c3f80-6743-11eb-9df9-02063710f946.png">
+디테일화면 | <img width="600" height="200" src="https://user-images.githubusercontent.com/47413926/106909078-43a09800-6743-11eb-9369-016a4b0c1df8.png">
 
 ### `Reference`
 
