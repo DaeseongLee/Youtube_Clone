@@ -2,11 +2,10 @@
 ## react, postCss, Youtube API를 활용하여 영상을 검색, 조회 할 수 있는 반응형 App
 
 ### `Contents`
-
-    - [motivation](#motivation)
-    - [implemented](#implemented)
-    - [Reference](#Reference)
-    - [Deploy](#Deploy)
+- [motivation](#motivation)
+- [implemented](#implemented)
+- [Reference](#Reference)
+- [Deploy](#Deploy)
 
 ### `motivation`
 
